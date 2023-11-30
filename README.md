@@ -37,4 +37,4 @@ This was a quite easy exercise, but really fun! Good to practice flexbox.
 
 ## Author
 
-- Frontend Mentor - [@jessicaragnar](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - @JessicaRagnar(https://www.frontendmentor.io/profile/JessicaRagnar)
